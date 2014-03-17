@@ -1,0 +1,56 @@
+#frmHome label.error, label.error {
+	margin-left: 10px;
+	width: auto;
+	display: inline;
+	color: red;
+	font-style: italic;
+	font-weight: normal;
+}
+
+.sTable tr th{
+	padding-left: 10px;
+	text-align: left;
+	width: 100px;
+}
+
+.sTable tr td input[type='text']{
+	width: 140px;
+}
+
+textarea{
+	width: 515px;
+}
+
+fieldset{
+	width : 530px;
+}
+
+fieldset legend{
+	font-weight: bold;
+}
+
+.button-class{
+	width: 100%;
+}
+.button-class tr td{
+	padding-top: 20px;
+	text-align: center;
+}
+
+
+/* home log */
+#mainTable{
+	width: 100%;
+}
+
+.sFieldset{
+	width: 650px !important;
+}
+
+#homelogTable{
+	width: 100%;
+}
+
+#tblhomeLog tbody tr td{
+	text-align: center;
+}

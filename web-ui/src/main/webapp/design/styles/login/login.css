@@ -1,0 +1,50 @@
+#frmLogin {
+	width: 380px;
+	font-size: 1.0em;
+	color: #333;
+	margin-top: 80px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#frmLogin legend {
+	padding-left: 0;
+	font-weight: bold;
+}
+
+#frmLogin legend, #frmLogin label {
+	color: #333;
+}
+
+#frmLogin label { 
+	width: 250px; 
+	font-weight: bold;
+}
+
+#frmLogin input.submit { 
+	margin-left: 100px; 
+}
+
+#frmLogin fieldset {
+	border: 1px solid #C9DCA6;
+	background-color: #F8FDEF;
+}
+
+#frmLogin fieldset fieldset {
+	background: none;
+}
+
+#frmLogin label.error, label.error {
+	margin-left: 10px;
+	width: auto;
+	display: inline;
+	color: red;
+	font-style: italic;
+	font-weight: normal;
+}
+
+
+.siteTitle{
+	font-weight: bold;
+	color: #191970;
+}
